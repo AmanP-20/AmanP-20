@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy9/giphy.gif" width="35px"> Hi there, I'm Aman!
+  <img src="https://imgs.search.brave.com/fDx0sA28uUl1vz1r7HLI7nH4huGI0almS24f5jygeTQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ2V0aW1nLmFp/L21lZGlhL2dldGlt/Z19haV9pbWctNGRS/UW1kcUs0R3FqcDFo/eXQ2MnR5LndlYnA" width="35px"> Hi there, I'm Aman!
 </h1>
 
 <p align="center">
