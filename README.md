@@ -1,84 +1,68 @@
-<h1 align="center">
-  <img src="https://imgs.search.brave.com/fDx0sA28uUl1vz1r7HLI7nH4huGI0almS24f5jygeTQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ2V0aW1nLmFp/L21lZGlhL2dldGlt/Z19haV9pbWctNGRS/UW1kcUs0R3FqcDFo/eXQ2MnR5LndlYnA" width="35px"> Hi there, I'm Aman!
-</h1>
+# Aman Pushp
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;AI+%7C+Machine+Learning+Explorer;System+Design+Enthusiast;Building+Cool+Things+🚀"/>
+**Full-stack dev. Competitive programmer. Occasional OS tinkerer.**
+
+MCA from NIT Trichy. I spend most of my time building things with Next.js, TypeScript, and PostgreSQL — and too much of it debugging LightGBM GPU configs at 2am.
+
+Currently working on a full-stack job platform and an AI-powered resume analyzer. Previously built Nexora (WebRTC collaboration), Engigems (engineering resource hub at NIT Trichy), and a Kaggle travel demand prediction pipeline that actually ranked.
+
+When I'm not shipping, I'm on LeetCode (Guardian), Codeforces (Specialist), or somewhere mid-game of chess regretting my opening.
+
+---
+
+## What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,postgres,python,cpp&perline=6" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,mongodb,redis,vscode&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" style="border-radius: 15px;" />
+---
+
+## Competitive Programming
+
+| Platform | Handle | Rating |
+|---|---|---|
+| LeetCode | [AmanP-20](https://leetcode.com/AmanP-20) | **Guardian** |
+| Codeforces | — | **Specialist** |
+| CodeChef | — | **4★** |
+| ICPC Codefest | — | **AIR 2284** |
+
+---
+
+## GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanP-20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanP-20&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-  
-  <p align="left">
-    🎓 <b>MCA Graduate</b> with a strong mathematical foundation.<br><br>
-    🧠 Passionate about <b>Algorithms, Artificial Intelligence , and Distributed Systems</b>.<br><br>
-    💻 Currently building <b>stealth developer tools & real-time applications</b>.<br><br>
-    🔬 Exploring the depths of <b>Operating System Development</b>.<br><br>
-    ⚡ <b>Fun Fact:</b> I love optimizing code and pushing systems to their absolute limits.
-  </p>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<h2 align="center">⚡ Tech Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,nextjs,mongodb,postgres,docker,linux,git,vscode&perline=6" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanP-20&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake.svg">
+</picture>
 
-<h2 align="center">📈 GitHub Dashboard</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanP-20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanP-20&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanP-20&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanP-20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" width="48%" />
-</p>
+**[Nexora](https://github.com/AmanP-20)** — Real-time WebRTC collaboration platform  
+**[Engigems](https://github.com/AmanP-20)** — Engineering resource hub, built at NIT Trichy  
+**Resume Analyzer** — Next.js + Express + Gemini 2.5 Flash pipeline  
+**Travel Demand Prediction** — LightGBM / XGBoost / CatBoost ensemble, Kaggle
 
-<h2 align="center">🔥 Contribution Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanP-20&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmanP-20/AmanP-20/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+## Find me
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+[![GitHub](https://img.shields.io/badge/GitHub-AmanP--20-181717?style=flat-square&logo=github)](https://github.com/AmanP-20)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/AmanP-20)
 
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-  <a href="https://github.com/AmanP-20">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanP-20&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=AmanP-20&style=flat-square&color=6e40c9&label=profile+views)
