@@ -19,7 +19,7 @@
   
   <p align="left">
     🎓 <b>MCA Graduate</b> with a strong mathematical foundation.<br><br>
-    🧠 Passionate about <b>Algorithms, Artificial Intelligence, and Distributed Systems</b>.<br><br>
+    🧠 Passionate about <b>Algorithms, Artificial Intelligence , and Distributed Systems</b>.<br><br>
     💻 Currently building <b>stealth developer tools & real-time applications</b>.<br><br>
     🔬 Exploring the depths of <b>Operating System Development</b>.<br><br>
     ⚡ <b>Fun Fact:</b> I love optimizing code and pushing systems to their absolute limits.
