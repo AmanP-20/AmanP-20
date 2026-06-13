@@ -28,7 +28,7 @@ When I'm not shipping, I'm on LeetCode (Guardian), Codeforces (Specialist), or s
 | LeetCode | [AmanP-20](https://leetcode.com/AmanP-20) | **Guardian** |
 | Codeforces | — | **Specialist** |
 | CodeChef | — | **4★** |
-| ICPC Codefest | — | **AIR 2284** |
+| IICPC Codefest | — | **AIR 2284** |
 
 ---
 
